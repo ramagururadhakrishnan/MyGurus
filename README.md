@@ -54,6 +54,7 @@
 ### UG - Kumaraguru College of Technology, Coimbatore - B.Tech (Information Technology)
 
 #### I Semester 
+
 | S.No. |  Name | Subject |
 |:-----:|-------|---------|
 |   1   | Ms. Gnanambal Illango | Mathematics - I |
@@ -64,6 +65,7 @@
 |   6   | Mr. K.R. Baskaran | Fundamentals of Computing (FOC) |
 
 #### II Semester
+
 | S.No. |  Name | Subject |
 |:-----:|-------|---------|
 |   1   | Mr. R. Krishna Moorthy | Mathematics - II |
@@ -74,6 +76,7 @@
 |   6   | Mr. Sivashakthivel | Engineering Mechanics |
 
 #### III Semester
+
 | S.No. |  Name | Subject |
 |:-----:|-------|---------|
 |   1   | Ms. Uma |  Mathematics - III |
@@ -84,6 +87,7 @@
 |   6   | Mr. K.R. Baskaran | Computer Architecture |
 
 #### IV Semester
+
 | S.No. |  Name | Subject |
 |:-----:|-------|---------|
 |   1   | Ms. S. Sivasakthi | Probability and Applied Statistics |
@@ -94,6 +98,7 @@
 |   6   | Dr. L. Jayashree | Computer Networks |
  
 #### V Semester
+
 | S.No. |  Name | Subject |
 |:-----:|-------|---------|
 |   1   | Mr. Jaishankar | Digital Signal Processing (DSP) |
@@ -104,6 +109,7 @@
 |   6   | Mr. K.R. Baskaran | Operating Systems |
  
 #### VI Semester
+
 | S.No. |  Name | Subject |
 |:-----:|-------|---------|
 |   1   | Ms. A. Santha | Numerical Methods |
@@ -114,6 +120,7 @@
 |   6   | Ms. N. Suganthi | Cryptography and Network Security |
  
 #### VII Semester
+
 | S.No. |  Name | Subject |
 |:-----:|-------|---------|
 |   1   | Mr. Dinesh | User Interface Design (UID) |
@@ -125,6 +132,7 @@
 |   7   | Ms. N. Rajathi | Advanced Java Programming |
 
 #### VIII Semester
+
 | S.No. |  Name | Subject |
 |:-----:|-------|---------|
 |   1   | Ms. N. Chitra Devi | Management Information System (MIS) |
@@ -134,6 +142,7 @@
 |   5   | Ms. N. Suganthi | Project |
 
 #### Clubs
+
 | S.No. |  Name | Club |
 |:-----:|-------|---------|
 |   1   | Mr. K. Kumaresan | Nature Club |
@@ -141,6 +150,7 @@
 ### PG - Amrita School of Engineering, Coimbatore - M.Tech (Cyber Security)
 
 #### I Semester 
+
 | S.No. |  Name | Subject |
 |:-----:|-------|---------|
 |   1   | Dr. M. Sindhu | Mathematical Foundations for Cyber Security |
@@ -151,6 +161,7 @@
 |   6   | Mr. Udhyakumar | Cultural Education |
 
 #### II Semester
+
 | S.No. |  Name | Subject |
 |:-----:|-------|---------|
 |   1   | Mr. Ashok Kumar Mohan | Cyber Forensics |
@@ -161,6 +172,7 @@
 |   6   | Dr. A.R. Vasudevan | Cyber Security Lab |
 
 #### III Semester
+
 | S.No. |  Name | Subject |
 |:-----:|-------|---------|
 |   1   | Dr. C. Srinivasan | Coding and Information Theory (CIT) |
@@ -168,11 +180,13 @@
 |   3   | Dr. M. Sindhu | Dissertation |
 
 #### IV Semester
+
 | S.No. |  Name | Subject |
 |:-----:|-------|---------|
 |   1   | Dr. M. Sindhu | Dissertation |
 
 #### Other Sessions
+
 | S.No. |  Name | Session |
 |:-----:|-------|---------|
 |   1   | Prof. Prabhaker Mateti | Formal Methods for System Software |
@@ -180,6 +194,7 @@
 ### Doctoral Research - Amrita School of Engineering, Coimbatore - Ph.D (Blockchain Technology)
 
 #### Coursework 
+
 | S.No. |  Name | Subject |
 |:-----:|-------|---------|
 |   1   | Dr. Anantha Narayanan V | Advanced Networks |
