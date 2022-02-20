@@ -1,54 +1,81 @@
 # My Gurus
 
+## School - St. Joseph Nursery School, Mettupalayam
+
+### Class Teachers
+
+| S.No. | Standard | Name | 
+|:-----:|:--------:|:------:|
+|   1   | LKG      |        | 
+|   2   | UKG      |        |
+
 ## School - San Jose Matriculation Higher Secondary School, Mettupalayam
+
+### Class Teachers
+
+| S.No. | Standard | Name | 
+|:-----:|:--------:|:------:|
+|   1   |    I     | Sudha Miss (Ms. Sudha) | 
+|   2   |    II    | Andeepthi Sister (Sr. Andeepthi) | 
+|   3   |    III   | Annie Miss (Ms. Annie) | 
+|   4   |    IV    | Leena Miss (Ms. Leena) |
+|   5   |    V     | Rabiya Miss (Ms. Rabiya) | 
+|   6   |    VI    | Charanya  Miss (Ms. Charanya) | 
+|   7   |    VI    | ஆசிரியை (Ms. Rajasulochana) | 
+|   8   |    VII   | Lathika  Miss (Ms. Lathika) | 
+|   9   |    VIII  | Premakumari Miss (Ms. Premakumari) | 
+|   10  |    IX    | Madhumathi  Miss (Ms. Madhumathi) | 
+|   11  |    X     | Lathika Miss (Ms. Lathika) | 
+|   12  |    XI    | ஆசிரியை (Ms. Rajasulochana) | 
+|   13  |    XII   | Agna Sister (Sr. Agna Geogre) | 
+
+### Subject Teachers
 
 | S.No. | Standard | Name | Subject |
 |:-----:|:--------:|:------:|---------|
-|   1   |    I     | Sudha Miss | Class Teacher |
-|   2   |    II    | Sister Andeepthi | Class Teacher, Biology |
-|   3   |    III   | Annie Miss | Class Teacher |
-|   4   |    IV    | Leena Miss | Class Teacher |
-|   5   |    V     | Rabiya Miss | Class Teacher |
-|   6   |    VI    | Charanya  Miss, Rajasulochana Miss (ராஜசுலோசனா ஆசிரியை) | Class Teacher |
-|   7   |    VII   | Lathika  Miss | Class Teacher, Physics |
-|   8   |    VIII  | Premakumari Miss | Class Teacher, Mathematics |
-|   9   |    IX    | Madhumathi  Miss | Class Teacher, English |
-|   10  |    X     | Lathika Miss | Class Teacher, Physics |
-|   11  |    XI    | Rajasulochana Miss (ராஜசுலோசனா ஆசிரியை) | Class Teacher, தமிழ் |
-|   12  |    XII   | Agna George Sister | Class Teacher, Biology |
-|   13  |          | Balu Sir | Physical Education |
-|   14  |          | Suganya Miss | தமிழ் |
-|   15  |          | Suganya Miss | Computer Science, Library |
-|   16  |          | Chandra Jaganathan Miss | Geography |
-|   17  |          | Alphonsa Miss | Biology |
-|   18  |          | Sajitha Miss | Physical Science |
-|   19  |    IX    | Elangovan Sir | History |
-|   20  |          | Beena Miss | Mathematics |
-|   21  |          | Premakala Miss | English |
-|   22  |    XI    | Pannerselvam Ayya (பன்னீர்செல்வம் அய்யா) | தமிழ் |
-|   23  |    XI    | Nithya Miss | Computer Science |
-|   24  |          | Jaya Raj Sir | Physical Education |
-|   25  |    XII   | Praveena Miss | Computer Science |
-|   26  |          | Selina Sister | Principal, Geography |
+|   1  |          | Balu Sir (Mr. Balu) | Physical Education |
+|   2  |          | Jaya Raj Sir (Mr. Jaya Raj) | Physical Education |
+|   3  |          | Tamil Suganya Miss (Ms. Suganya) | தமிழ் |
+|   4  |  XI - X, XII  | ஆசிரியை (Ms. Rajasulochana) | தமிழ் |
+|   5  |   XI    | அய்யா (Mr. Pannerselvam - பன்னீர்செல்வம்) | தமிழ் |
+|   6  |  VII - IX  | Madhumathi  Miss (Ms. Madhumathi) | English |
+|   7  |  XI - XII  | Premakala Miss (Ms. Premakala) | English |
+|   8  |   X      | Beena Miss (Ms. Beena) | Mathematics |
+|   9  |   IX  | Premakumari Miss (Ms. Premakumari) | Mathematics |
+|   10 |  XI - XII | Miss () | Mathematics | 
+|   11  |          | Sajitha Miss (Ms. Sajitha) | Physical Science |
+|   12  |  X - XII | Lathika Miss (Ms. Lathika) | Physical Science |
+|   13  |    XII   | Moorthy Sir (Mr. Moorthy) | Chemistry |
+|   14  |    VIII  | Alphonsa Miss (Ms. Alphonsa) | Biology |
+|   15   |   IX    | Andeepthi Sister (Sr. Andeepthi) | Biology |
+|   16   |   IX - X | Agna Sister (Sr. Agna Geogre) | Biology |
+|   17  |    IX    | Elangovan Sir (Mr. Elangovan) | History |
+|   18  |          | Chandra Jaganathan Miss (Ms. Chandra Jaganathan) | Geography |
+|   19  |    X     | Selina Sister (Sr. Celina) |  Geography |
+|   20  |          | Library Suganya Miss (Ms. Suganya) | Computer Science |
+|   21  |    XI    | Nithya Miss (Ms. Nithya) | Computer Science |
+|   22  |    XII   | Praveena Miss (Ms. Praveena) | Computer Science |
+|   23  |          | Library Suganya Miss (Ms. Suganya) | Library |
+|   24  |    XI - XII   | Nair Sir (Mr. Somasekharan Nair) | Communication Skills |
 
 ## CSC Computer Education, Mettupalayam
 
 | S.No. | Name | Course |
-|:-----:|:------:|---------|
+|:-----:|:----:|---------|
 |   1   | Mr. Inayathulla | HDCA |
 
 ## Tuition, Mettupalayam
 
-| S.No. | Name | Subject(s) |
-|:-----:|:------:|---------|
-|   1   | Ms. Kalaiselvi Akka | All |
-|   2   | Ms. Geetha Akka | All |
-|   3   | Ms. Nirmala Akka | All |
-|   4   | Ms. Suganya Akka | Mathematics |
-|   5   | Ms. Udhaya Akka | All |
-|   6   | Ms. Velusamy Sir  | Physics |
-|   7   | Ms. Nandhakumar Sir | Chemistry |
-|   8   | Ms. Rajasingh Sir | Mathematics |
+| S.No. | Standard | Name | Subject(s) |
+|:-----:|:--------:|:------:|---------|
+|   1   |   V     | Kalaiselvi Akka (Ms. Kalaiselvi) | All |
+|   2   |   VI    | Geetha Akka ( Ms. Geetha) | All |
+|   3   |  VII - IX | Nirmala Akka (Ms. Nirmala) | All |
+|   4   | IX, XI - XII | Suganya Akka (Ms. Suganya) | Mathematics |
+|   5   | X | Udhaya Akka (Ms. Udhayaveni) | All |
+|   6   | XI - XII | Velusamy Sir (Mr. Velusamy)  | Physics |
+|   7   | XI - XII | Nandhakumar Sir (Mr. Nandhakumar) | Chemistry |
+|   8   | XI - XII | Rajasingh Sir (Mr. Rajasingh) | Mathematics |
 
 ## College 
 ### UG - Kumaraguru College of Technology, Coimbatore - B.Tech (Information Technology)
@@ -164,7 +191,7 @@
 |   2   |	<img src="Assets/Amrita/KP.jpg" alt="Praveen K" width="120"/> <br/> Mr. K. Praveen | Concepts in System Security (CSS) |
 |   3   | <img src="Assets/Amrita/MS.jpg" alt="Sethumadhavan M" width="120"/> <br/> Prof. M. Sethumadhavan | Cryptography |
 |   4   | Prof. K. Gangadharan | Internetworking - Protocols and Security |
-|   5   | Dr. T. Gireesh Kumar | Data Mining and Machine Learning in Cyber Security (DMML-CS) |
+|   5   | <img src="Assets/Amrita/GKT.jpg" alt="T Gireesh Kumar" width="120"/> <br/> Dr. T. Gireesh Kumar | Data Mining and Machine Learning in Cyber Security (DMML-CS) |
 |   6   | Mr. Udhyakumar | Cultural Education |
 
 #### II Semester
@@ -173,10 +200,10 @@
 |:-----:|:-------:|---------|
 |   1   | <img src="Assets/Amrita/AKM.jpg" alt="Ashok Kumar Mohan" width="120"/> <br/> Mr. Ashok Kumar Mohan | Cyber Forensics |
 |   2   |	<img src="Assets/Amrita/LKV.jpg" alt="Lakshmy KV" width="120"/> <br/> Dr. K.V. Lakshmy | Cryptographic Protocols and Standards |
-|   3   | Ms. K.P. Jeevitha | Secure Coding |
+|   3   | <img src="Assets/Amrita/KPJ.jpg" alt="KP Jevitha" width="120"/> <br/> Ms. K.P. Jevitha | Secure Coding |
 |   4   | Prof. K. Gangadharan | Mobile & Wireless Networking and Security |
 |   5   | <img src="Assets/Amrita/APP.jpg" alt="Amritha PP" width="120"/> <br/> Ms. P.P. Amritha | Steganography and Obfuscation |
-|   6   | Dr. A.R. Vasudevan | Cyber Security Lab |
+|   6   | <img src="Assets/Amrita/VAR.jpg" alt="AR Vasudevan" width="120"/> <br/> Dr. A.R. Vasudevan | Cyber Security Lab |
 
 #### III Semester
 
@@ -190,7 +217,7 @@
 
 | S.No. |  Name | Subject |
 |:-----:|:-------:|---------|
-|   1   | <img src="Assets/Amrita/SM.jpg" alt="M. Sindhu" width="120"/> <br/> Dr. M. Sindhu <br/> <img src="Assets/Amrita/LKV.jpg" alt="Lakshmy KV" width="120"/> <br/> Dr. K.V. Lakshmy | Dissertation |
+|   1   | <img src="Assets/Amrita/SM.jpg" alt="M. Sindhu" width="120"/> <br/> Dr. M. Sindhu <br/> <br/> <img src="Assets/Amrita/LKV.jpg" alt="Lakshmy KV" width="120"/> <br/> Dr. K.V. Lakshmy | Dissertation |
 
 #### Other Sessions
 
@@ -204,7 +231,7 @@
 
 | S.No. |  Name | Subject |
 |:-----:|:-------:|---------|
-|   1   | <img src="Assets/Amrita/VAN.jpg" alt="Anantha Narayanan V" width="120"/> <br/> Dr. Anantha Narayanan V <br/> Prof. K. Nalinadevi  | Advanced Networks |
-|   2   | <img src="Assets/Amrita/MS.jpg" alt="Sethumadhavan M" width="120"/> <br/> Prof. M. Sethumadhavan <br/> Prof. N. Sundararajan | Research Methodology |
+|   1   | <img src="Assets/Amrita/VAN.jpg" alt="Anantha Narayanan V" width="120"/> <br/> Dr. Anantha Narayanan V <br/><br/> <img src="Assets/Amrita/KND.jpg" alt="K Nalinadevi" width="120"/> <br/> Ms. K. Nalinadevi  | Advanced Networks |
+|   2   | <img src="Assets/Amrita/MS.jpg" alt="Sethumadhavan M" width="120"/> <br/> Prof. M. Sethumadhavan <br/> <br/>  <img src="Assets/Amrita/ENS.jpg" alt="N Sundararajan" width="120"/> <br/> Prof. N. Sundararajan | Research Methodology |
 
 ## Mentor - Somasekharan Nair. S
