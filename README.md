@@ -3,7 +3,7 @@
 ## School - San Jose Matriculation Higher Secondary School, Mettupalayam
 
 | S.No. | Standard | Name | Subject |
-|:-----:|:--------:|------|---------|
+|:-----:|:--------:|:------:|---------|
 |   1   |    I     | Sudha Miss | Class Teacher |
 |   2   |    II    | Sister Andeepthi | Class Teacher, Biology |
 |   3   |    III   | Annie Miss | Class Teacher |
@@ -34,13 +34,13 @@
 ## CSC Computer Education, Mettupalayam
 
 | S.No. | Name | Course |
-|:-----:|------|---------|
+|:-----:|:------:|---------|
 |   1   | Mr. Inayathulla | HDCA |
 
 ## Tuition, Mettupalayam
 
-| S.No. | Subject | Name |
-|:-----:|------|---------|
+| S.No. | Name | Subject(s) |
+|:-----:|:------:|---------|
 |   1   | Ms. Kalaiselvi Akka | All |
 |   2   | Ms. Geetha Akka | All |
 |   3   | Ms. Nirmala Akka | All |
@@ -56,18 +56,18 @@
 #### I Semester 
 
 | S.No. |  Name | Subject |
-|:-----:|-------|---------|
+|:-----:|:-------:|---------|
 |   1   | Ms. Gnanambal Illango | Mathematics - I |
 |   2   | Ms. Vidyavathi | English- I |
 |   3   | Mr. R. Balamurugan | Physics - I | 
 |   4   | Mr. Sivahari | Chemistry - I |
 |   5   | Mr. Palanisamy | Engineering Graphics |
-|   6   | Mr. K.R. Baskaran | Fundamentals of Computing (FOC) |
+|   6   | <img src="Assets/KCT/KRB.jpg" alt="Baskaran K R" width="120"/> <br/> Mr. K.R. Baskaran | Fundamentals of Computing (FOC) |
 
 #### II Semester
 
 | S.No. |  Name | Subject |
-|:-----:|-------|---------|
+|:-----:|:-------:|---------|
 |   1   | Mr. R. Krishna Moorthy | Mathematics - II |
 |   2   | Ms. Diana Lawrence | English - II |
 |   3   | Mr. R. Balamurugan | Physics - II |
@@ -78,84 +78,91 @@
 #### III Semester
 
 | S.No. |  Name | Subject |
-|:-----:|-------|---------|
+|:-----:|:-------:|---------|
 |   1   | Ms. Uma |  Mathematics - III |
 |   2   | Ms. Thilagavathi |  Principles of Communication (POC) |
-|   3   | Mr. N. Suganthi | Microprocessors |
-|   4   | Ms. S. Kavitha | Object Oriented Programming and C++ |
-|   5   | Ms. S. Sathyavathi | Digital Principle and System Design |
-|   6   | Mr. K.R. Baskaran | Computer Architecture |
+|   3   | <img src="Assets/KCT/NS.jpg" alt="N Suganthi" width="120"/> <br/> Mr. N. Suganthi | Microprocessors |
+|   4   | <img src="Assets/KCT/KS.jpg" alt="Kavitha S" width="120"/> <br/> Ms. S. Kavitha | Object Oriented Programming and C++ |
+|   5   | <img src="Assets/KCT/SS.jpg" alt="S Sathyavathi" width="120"/> <br/> Ms. S. Sathyavathi | Digital Principle and System Design |
+|   6   | <img src="Assets/KCT/KRB.jpg" alt="Baskaran K R" width="120"/> <br/> Mr. K.R. Baskaran | Computer Architecture |
 
 #### IV Semester
 
 | S.No. |  Name | Subject |
-|:-----:|-------|---------|
+|:-----:|:-------:|---------|
 |   1   | Ms. S. Sivasakthi | Probability and Applied Statistics |
 |   2   |	Mr. Mayildurai | Environmental Science and Engineering |
-|   3   | Mr. K.R. Baskaran | System Software |
-|   4   | Ms. S. Sathyavathi | Software Engineering |
-|   5   | Mr. E.A. Vimal | Internet and Java Programming |
+|   3   | <img src="Assets/KCT/KRB.jpg" alt="Baskaran K R" width="120"/> <br/> Mr. K.R. Baskaran | System Software |
+|   4   | <img src="Assets/KCT/SS.jpg" alt="S Sathyavathi" width="120"/> <br/> Ms. S. Sathyavathi | Software Engineering |
+|   5   | <img src="Assets/KCT/EAV.jpg" alt="E A Vimal" width="120"/> <br/> Mr. E.A. Vimal | Internet and Java Programming |
 |   6   | Dr. L. Jayashree | Computer Networks |
  
 #### V Semester
 
 | S.No. |  Name | Subject |
-|:-----:|-------|---------|
+|:-----:|:-------:|---------|
 |   1   | Mr. Jaishankar | Digital Signal Processing (DSP) |
-|   2   |	Ms. N. Suganthi | Telecommunication Systems |
+|   2   |	<img src="Assets/KCT/NS.jpg" alt="N Suganthi" width="120"/> <br/> Ms. N. Suganthi | Telecommunication Systems |
 |   3   | Ms. N. Chitra Devi | Object Oriented Analysis and Design (OOAD) |
-|   4   | Ms. J. Cynthia | TCP/IP and Socket Programming |
-|   5   | Mr. V. Vijilesh | Principles of Compiler Design |
-|   6   | Mr. K.R. Baskaran | Operating Systems |
+|   4   | <img src="Assets/KCT/JC.jpg" alt="J Cynthia" width="120"/> <br/> Ms. J. Cynthia | TCP/IP and Socket Programming |
+|   5   | <img src="Assets/KCT/VV.jpg" alt="V Vijilesh" width="120"/> <br/> Mr. V. Vijilesh | Principles of Compiler Design |
+|   6   | <img src="Assets/KCT/KRB.jpg" alt="Baskaran K R" width="120"/> <br/> Mr. K.R. Baskaran | Operating Systems |
  
 #### VI Semester
 
 | S.No. |  Name | Subject |
-|:-----:|-------|---------|
+|:-----:|:-------:|---------|
 |   1   | Ms. A. Santha | Numerical Methods |
-|   2   |	Ms. S. Kavitha | Database Management Systems (DBMS) |
+|   2   |	<img src="Assets/KCT/KS.jpg" alt="Kavitha S" width="120"/> <br/> Ms. S. Kavitha | Database Management Systems (DBMS) |
 |   3   | Mr. Senthil Kumar | Professional Ethics and Human Values |
 |   4   | Dr. L. Jayashree | High Performance Networks (HPN) |
-|   5   | Mr. S. Kanagaraj | Visual Programming |
-|   6   | Ms. N. Suganthi | Cryptography and Network Security |
+|   5   | <img src="Assets/KCT/SK.jpg" alt="S Kanagaraj" width="120"/> <br/> Mr. S. Kanagaraj | Visual Programming |
+|   6   | <img src="Assets/KCT/NS.jpg" alt="N Suganthi" width="120"/> <br/> Ms. N. Suganthi | Cryptography and Network Security |
  
 #### VII Semester
 
 | S.No. |  Name | Subject |
-|:-----:|-------|---------|
+|:-----:|:-------:|---------|
 |   1   | Mr. Dinesh | User Interface Design (UID) |
-|   2   |	Ms. P. Shenbagam | Graphics and Multimedia |
+|   2   |	<img src="Assets/KCT/PS.jpg" alt="P Shenbagam" width="120"/> <br/> Ms. P. Shenbagam | Graphics and Multimedia |
 |   3   | Dr. L. Jayashree | Mobile Computing |
 |   4   | Ms. Vijayakumari | Mathematics |
-|   5   | Ms. S. Sathyavathi | Principles of Management (POM) |
-|   6   | Mr. E.A. Vimal | Component Based Technology (CBT) |
-|   7   | Ms. N. Rajathi | Advanced Java Programming |
+|   5   | <img src="Assets/KCT/SS.jpg" alt="S Sathyavathi" width="120"/> <br/> Ms. S. Sathyavathi | Principles of Management (POM) |
+|   6   | <img src="Assets/KCT/EAV.jpg" alt="E A Vimal" width="120"/> <br/> Mr. E.A. Vimal | Component Based Technology (CBT) |
+|   7   | <img src="Assets/KCT/NR.jpg" alt="N Rajathi" width="120"/> <br/> Ms. N. Rajathi | Advanced Java Programming |
 
 #### VIII Semester
 
 | S.No. |  Name | Subject |
-|:-----:|-------|---------|
+|:-----:|:-------:|---------|
 |   1   | Ms. N. Chitra Devi | Management Information System (MIS) |
 |   2   |	Ms. Latha | Information Security (IS) |
-|   3   | Mr. E.A. Vimal | XML and Web Services |
+|   3   | <img src="Assets/KCT/EAV.jpg" alt="E A Vimal" width="120"/> <br/> Mr. E.A. Vimal | XML and Web Services |
 |   4   | Mr. Senthil Kumar | Total Quality Management (TQM) |
-|   5   | Ms. N. Suganthi | Project |
+|   5   | <img src="Assets/KCT/NS.jpg" alt="N Suganthi" width="120"/> <br/> Ms. N. Suganthi | Project |
 
 #### Clubs
 
 | S.No. |  Name | Club |
-|:-----:|-------|---------|
-|   1   | Mr. K. Kumaresan | Nature Club |
+|:-----:|:-------:|---------|
+|   1   | <img src="Assets/KCT/KK.jpg" alt="K Kumaresan" width="120"/> <br/> Mr. K. Kumaresan | Nature Club |
+
+### Robert Bosch Engineering and Business Solutions Private Ltd - Coimbatore
+
+| S.No. |  Name | Subject |
+|:-----:|:-------:|---------|
+|   1   | Mr. Parish Sharma | FOCAS Training - Software Testing |
+|   2   | Mr. Muthukrishnan Kamalakannan | Test Automation |
 
 ### PG - Amrita School of Engineering, Coimbatore - M.Tech (Cyber Security)
 
 #### I Semester 
 
 | S.No. |  Name | Subject |
-|:-----:|-------|---------|
-|   1   | Dr. M. Sindhu | Mathematical Foundations for Cyber Security |
-|   2   |	Mr. K. Praveen | Concepts in System Security (CSS) |
-|   3   | Prof. M. Sethumadhavan | Cryptography |
+|:-----:|:-------:|---------|
+|   1   | <img src="Assets/Amrita/SM.jpg" alt="M. Sindhu" width="120"/> <br/> Dr. M. Sindhu | Mathematical Foundations for Cyber Security |
+|   2   |	<img src="Assets/Amrita/KP.jpg" alt="Praveen K" width="120"/> <br/> Mr. K. Praveen | Concepts in System Security (CSS) |
+|   3   | <img src="Assets/Amrita/MS.jpg" alt="Sethumadhavan M" width="120"/> <br/> Prof. M. Sethumadhavan | Cryptography |
 |   4   | Prof. K. Gangadharan | Internetworking - Protocols and Security |
 |   5   | Dr. T. Gireesh Kumar | Data Mining and Machine Learning in Cyber Security (DMML-CS) |
 |   6   | Mr. Udhyakumar | Cultural Education |
@@ -163,41 +170,41 @@
 #### II Semester
 
 | S.No. |  Name | Subject |
-|:-----:|-------|---------|
-|   1   | Mr. Ashok Kumar Mohan | Cyber Forensics |
-|   2   |	Dr. K.V. Lakshmy | Cryptographic Protocols and Standards |
+|:-----:|:-------:|---------|
+|   1   | <img src="Assets/Amrita/AKM.jpg" alt="Ashok Kumar Mohan" width="120"/> <br/> Mr. Ashok Kumar Mohan | Cyber Forensics |
+|   2   |	<img src="Assets/Amrita/LKV.jpg" alt="Lakshmy KV" width="120"/> <br/> Dr. K.V. Lakshmy | Cryptographic Protocols and Standards |
 |   3   | Ms. K.P. Jeevitha | Secure Coding |
 |   4   | Prof. K. Gangadharan | Mobile & Wireless Networking and Security |
-|   5   | Ms. P.P. Amritha | Steganography and Obfuscation |
+|   5   | <img src="Assets/Amrita/APP.jpg" alt="Amritha PP" width="120"/> <br/> Ms. P.P. Amritha | Steganography and Obfuscation |
 |   6   | Dr. A.R. Vasudevan | Cyber Security Lab |
 
 #### III Semester
 
 | S.No. |  Name | Subject |
-|:-----:|-------|---------|
-|   1   | Dr. C. Srinivasan | Coding and Information Theory (CIT) |
-|   2   |	Mr. K. Praveen | Android Security |
-|   3   | Dr. M. Sindhu | Dissertation |
+|:-----:|:-------:|---------|
+|   1   | <img src="Assets/Amrita/CS.jpg" alt="C Srinivasan" width="120"/> <br/> Dr. C. Srinivasan | Coding and Information Theory (CIT) |
+|   2   |	<img src="Assets/Amrita/KP.jpg" alt="Praveen K" width="120"/> <br/> Mr. K. Praveen | Android Security |
+|   3   | <img src="Assets/Amrita/SM.jpg" alt="M. Sindhu" width="120"/> <br/> Dr. M. Sindhu | Dissertation |
 
 #### IV Semester
 
 | S.No. |  Name | Subject |
-|:-----:|-------|---------|
-|   1   | Dr. M. Sindhu | Dissertation |
+|:-----:|:-------:|---------|
+|   1   | <img src="Assets/Amrita/SM.jpg" alt="M. Sindhu" width="120"/> <br/> Dr. M. Sindhu <br/> <img src="Assets/Amrita/LKV.jpg" alt="Lakshmy KV" width="120"/> <br/> Dr. K.V. Lakshmy | Dissertation |
 
 #### Other Sessions
 
 | S.No. |  Name | Session |
-|:-----:|-------|---------|
-|   1   | Prof. Prabhaker Mateti | Formal Methods for System Software |
+|:-----:|:-------:|---------|
+|   1   | <img src="Assets/Amrita/PM.jpg" alt="Prabhaker Mateti" width="120"/> <br/> Prof. Prabhaker Mateti | Formal Methods for System Software |
 
 ### Doctoral Research - Amrita School of Engineering, Coimbatore - Ph.D (Blockchain Technology)
 
 #### Coursework 
 
 | S.No. |  Name | Subject |
-|:-----:|-------|---------|
-|   1   | Dr. Anantha Narayanan V | Advanced Networks |
-|   2   | Prof. M. Sethumadhavan, Prof. N. Sundararajan | Research Methodology |
+|:-----:|:-------:|---------|
+|   1   | <img src="Assets/Amrita/VAN.jpg" alt="Anantha Narayanan V" width="120"/> <br/> Dr. Anantha Narayanan V <br/> Prof. K. Nalinadevi  | Advanced Networks |
+|   2   | <img src="Assets/Amrita/MS.jpg" alt="Sethumadhavan M" width="120"/> <br/> Prof. M. Sethumadhavan <br/> Prof. N. Sundararajan | Research Methodology |
 
 ## Mentor - Somasekharan Nair. S
