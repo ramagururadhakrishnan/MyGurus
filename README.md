@@ -59,7 +59,7 @@
 |:-----:|:-------:|---------|
 |   1   | Ms. Gnanambal Illango | Mathematics - I |
 |   2   | Ms. Vidyavathi | English- I |
-|   3   | Mr. R. Balamurugan | Physics - I | 
+|   3   | <img src="Assets/KCT/RB.jpg" alt="R Balamurugan" width="120"/> <br/> Mr. R. Balamurugan | Physics - I | 
 |   4   | Mr. Sivahari | Chemistry - I |
 |   5   | Mr. Palanisamy | Engineering Graphics |
 |   6   | <img src="Assets/KCT/KRB.jpg" alt="Baskaran K R" width="120"/> <br/> Mr. K.R. Baskaran | Fundamentals of Computing (FOC) |
@@ -68,9 +68,9 @@
 
 | S.No. |  Name | Subject |
 |:-----:|:-------:|---------|
-|   1   | Mr. R. Krishna Moorthy | Mathematics - II |
+|   1   | <img src="Assets/KCT/RKM.jpg" alt="R Krishna Moorthy" width="120"/> <br/> Mr. R. Krishna Moorthy | Mathematics - II |
 |   2   | Ms. Diana Lawrence | English - II |
-|   3   | Mr. R. Balamurugan | Physics - II |
+|   3   | <img src="Assets/KCT/RB.jpg" alt="R Balamurugan" width="120"/> <br/> Mr. R. Balamurugan | Physics - II |
 |   4   | Ms. Latha | Electrical and Electronics Circuits |
 |   5   | Ms. N. Chitra Devi | Data Structures |
 |   6   | Mr. Sivashakthivel | Engineering Mechanics |
@@ -80,7 +80,7 @@
 | S.No. |  Name | Subject |
 |:-----:|:-------:|---------|
 |   1   | Ms. Uma |  Mathematics - III |
-|   2   | Ms. Thilagavathi |  Principles of Communication (POC) |
+|   2   | <img src="Assets/KCT/KT.jpg" alt="K Thilagavathi" width="120"/> <br/> Ms. K. Thilagavathi |  Principles of Communication (POC) |
 |   3   | <img src="Assets/KCT/NS.jpg" alt="N Suganthi" width="120"/> <br/> Mr. N. Suganthi | Microprocessors |
 |   4   | <img src="Assets/KCT/KS.jpg" alt="Kavitha S" width="120"/> <br/> Ms. S. Kavitha | Object Oriented Programming and C++ |
 |   5   | <img src="Assets/KCT/SS.jpg" alt="S Sathyavathi" width="120"/> <br/> Ms. S. Sathyavathi | Digital Principle and System Design |
@@ -90,7 +90,7 @@
 
 | S.No. |  Name | Subject |
 |:-----:|:-------:|---------|
-|   1   | Ms. S. Sivasakthi | Probability and Applied Statistics |
+|   1   | <img src="Assets/KCT/SS-M.jpg" alt="S Sivasakthi" width="120"/> <br/> Ms. S. Sivasakthi | Probability and Applied Statistics |
 |   2   |	Mr. Mayildurai | Environmental Science and Engineering |
 |   3   | <img src="Assets/KCT/KRB.jpg" alt="Baskaran K R" width="120"/> <br/> Mr. K.R. Baskaran | System Software |
 |   4   | <img src="Assets/KCT/SS.jpg" alt="S Sathyavathi" width="120"/> <br/> Ms. S. Sathyavathi | Software Engineering |
@@ -112,9 +112,9 @@
 
 | S.No. |  Name | Subject |
 |:-----:|:-------:|---------|
-|   1   | Ms. A. Santha | Numerical Methods |
+|   1   | <img src="Assets/KCT/AS.jpg" alt="A Santha" width="120"/> <br/> Ms. A. Santha | Numerical Methods |
 |   2   |	<img src="Assets/KCT/KS.jpg" alt="Kavitha S" width="120"/> <br/> Ms. S. Kavitha | Database Management Systems (DBMS) |
-|   3   | Mr. Senthil Kumar | Professional Ethics and Human Values |
+|   3   | <img src="Assets/KCT/KMS.jpg" alt="KM Senthil Kumar" width="120"/> <br/> Mr. K.M. Senthil Kumar | Professional Ethics and Human Values |
 |   4   | Dr. L. Jayashree | High Performance Networks (HPN) |
 |   5   | <img src="Assets/KCT/SK.jpg" alt="S Kanagaraj" width="120"/> <br/> Mr. S. Kanagaraj | Visual Programming |
 |   6   | <img src="Assets/KCT/NS.jpg" alt="N Suganthi" width="120"/> <br/> Ms. N. Suganthi | Cryptography and Network Security |
@@ -138,7 +138,7 @@
 |   1   | Ms. N. Chitra Devi | Management Information System (MIS) |
 |   2   |	Ms. Latha | Information Security (IS) |
 |   3   | <img src="Assets/KCT/EAV.jpg" alt="E A Vimal" width="120"/> <br/> Mr. E.A. Vimal | XML and Web Services |
-|   4   | Mr. Senthil Kumar | Total Quality Management (TQM) |
+|   4   | <img src="Assets/KCT/KMS.jpg" alt="KM Senthil Kumar" width="120"/> <br/> Mr. Senthil Kumar | Total Quality Management (TQM) |
 |   5   | <img src="Assets/KCT/NS.jpg" alt="N Suganthi" width="120"/> <br/> Ms. N. Suganthi | Project |
 
 #### Clubs
