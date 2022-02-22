@@ -78,13 +78,18 @@
 |   8   | XI - XII | Rajasingh Sir (Mr. Rajasingh) | Mathematics |
 
 ## College 
+
 ### UG - Kumaraguru College of Technology, Coimbatore - B.Tech (Information Technology)
+
+<p align="center">
+<img src="Assets/KCT/KCT.png" alt="KCT" width="800"/> <br/>
+</p>
 
 #### I Semester 
 
 | S.No. |  Name | Subject |
 |:-----:|:-------:|---------|
-|   1   | Ms. Gnanambal Illango | Mathematics - I |
+|   1   | <img src="Assets/KCT/GI.jpg" alt="Gnanambal Illango" width="120"/> <br/> Ms. Gnanambal Illango | Mathematics - I |
 |   2   | Ms. Vidyavathi | English- I |
 |   3   | <img src="Assets/KCT/RB.jpg" alt="R Balamurugan" width="120"/> <br/> Mr. R. Balamurugan | Physics - I | 
 |   4   | Mr. Sivahari | Chemistry - I |
@@ -118,7 +123,7 @@
 | S.No. |  Name | Subject |
 |:-----:|:-------:|---------|
 |   1   | <img src="Assets/KCT/SS-M.jpg" alt="S Sivasakthi" width="120"/> <br/> Ms. S. Sivasakthi | Probability and Applied Statistics |
-|   2   |	Mr. Mayildurai | Environmental Science and Engineering |
+|   2   |	<img src="Assets/KCT/RM.jpg" alt="R Mayildurai" width="120"/> <br/> Mr. R. Mayildurai | Environmental Science and Engineering |
 |   3   | <img src="Assets/KCT/KRB.jpg" alt="Baskaran K R" width="120"/> <br/> Mr. K.R. Baskaran | System Software |
 |   4   | <img src="Assets/KCT/SS.jpg" alt="S Sathyavathi" width="120"/> <br/> Ms. S. Sathyavathi | Software Engineering |
 |   5   | <img src="Assets/KCT/EAV.jpg" alt="E A Vimal" width="120"/> <br/> Mr. E.A. Vimal | Internet and Java Programming |
@@ -178,10 +183,14 @@
 
 | S.No. |  Name | Subject |
 |:-----:|:-------:|---------|
-|   1   | Mr. Parish Sharma | FOCAS Training - Software Testing |
-|   2   | Mr. Muthukrishnan Kamalakannan | Test Automation |
+|   1   | <img src="Assets/External/PS.jpg" alt="Parish Sharma" width="120"/> <br/> Mr. Parish Sharma | FOCAS Training - Software Testing |
+|   2   | <img src="Assets/RBEI/MK.jpg" alt="Muthukrishnan Kamalakannan" width="120"/> <br/> Mr. Muthukrishnan Kamalakannan | Test Automation |
 
 ### PG - Amrita School of Engineering, Coimbatore - M.Tech (Cyber Security)
+
+<p align="center">
+<img src="Assets/Amrita/Amrita-Coimbatore.jpg" alt="Amrita" width="800"/> <br/>
+</p>
 
 #### I Semester 
 
@@ -190,9 +199,9 @@
 |   1   | <img src="Assets/Amrita/SM.jpg" alt="M. Sindhu" width="120"/> <br/> Dr. M. Sindhu | Mathematical Foundations for Cyber Security |
 |   2   |	<img src="Assets/Amrita/KP.jpg" alt="Praveen K" width="120"/> <br/> Mr. K. Praveen | Concepts in System Security (CSS) |
 |   3   | <img src="Assets/Amrita/MS.jpg" alt="Sethumadhavan M" width="120"/> <br/> Prof. M. Sethumadhavan | Cryptography |
-|   4   | Prof. K. Gangadharan | Internetworking - Protocols and Security |
+|   4   | <img src="Assets/Amrita/KG.jpg" alt="K Gangadharan" width="120"/> <br/> Prof. K. Gangadharan | Internetworking - Protocols and Security |
 |   5   | <img src="Assets/Amrita/GKT.jpg" alt="T Gireesh Kumar" width="120"/> <br/> Dr. T. Gireesh Kumar | Data Mining and Machine Learning in Cyber Security (DMML-CS) |
-|   6   | Mr. Udhyakumar | Cultural Education |
+|   6   | <img src="Assets/Amrita/CSU.jpg" alt="CS Udhayakumar" width="120"/> <br/> Prof. C.S. Udhayakumar | Cultural Education |
 
 #### II Semester
 
@@ -201,7 +210,7 @@
 |   1   | <img src="Assets/Amrita/AKM.jpg" alt="Ashok Kumar Mohan" width="120"/> <br/> Mr. Ashok Kumar Mohan | Cyber Forensics |
 |   2   |	<img src="Assets/Amrita/LKV.jpg" alt="Lakshmy KV" width="120"/> <br/> Dr. K.V. Lakshmy | Cryptographic Protocols and Standards |
 |   3   | <img src="Assets/Amrita/KPJ.jpg" alt="KP Jevitha" width="120"/> <br/> Ms. K.P. Jevitha | Secure Coding |
-|   4   | Prof. K. Gangadharan | Mobile & Wireless Networking and Security |
+|   4   | <img src="Assets/Amrita/KG.jpg" alt="K Gangadharan" width="120"/> <br/> Prof. K. Gangadharan | Mobile & Wireless Networking and Security |
 |   5   | <img src="Assets/Amrita/APP.jpg" alt="Amritha PP" width="120"/> <br/> Ms. P.P. Amritha | Steganography and Obfuscation |
 |   6   | <img src="Assets/Amrita/VAR.jpg" alt="AR Vasudevan" width="120"/> <br/> Dr. A.R. Vasudevan | Cyber Security Lab |
 
