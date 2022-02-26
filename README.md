@@ -21,34 +21,34 @@
 |   4   |    IV    | Leena Miss (Ms. Leena) |
 |   5   |    V     | Rabiya Miss (Ms. Rabiya) | 
 |   6   |    VI    | Charanya  Miss (Ms. Charanya) | 
-|   7   |    VI    | ஆசிரியை (Ms. Rajasulochana) | 
+|   7   |    VI    | ஆசிரியை [இராஜசுலோச்சனா] (Ms. Rajasulochana) | 
 |   8   |    VII   | Lathika  Miss (Ms. Lathika) | 
 |   9   |    VIII  | Premakumari Miss (Ms. Premakumari) | 
 |   10  |    IX    | Madhumathi  Miss (Ms. Madhumathi) | 
 |   11  |    X     | Lathika Miss (Ms. Lathika) | 
-|   12  |    XI    | ஆசிரியை (Ms. Rajasulochana) | 
+|   12  |    XI    | ஆசிரியை [இராஜசுலோச்சனா] (Ms. Rajasulochana) | 
 |   13  |    XII   | Agna Sister (Sr. Agna Geogre) | 
 
 ### Subject Teachers
 
 | S.No. | Standard | Name | Subject |
-|:-----:|:--------:|:------:|---------|
+|:-----:|:--------:|:----:|---------|
 |   1  |          | Balu Sir (Mr. Balu) | Physical Education |
 |   2  |          | Jaya Raj Sir (Mr. Jaya Raj) | Physical Education |
 |   3  |          | Tamil Suganya Miss (Ms. Suganya) | தமிழ் |
-|   4  |  XI - X, XII  | ஆசிரியை (Ms. Rajasulochana) | தமிழ் |
-|   5  |   XI    | அய்யா (Mr. Pannerselvam - பன்னீர்செல்வம்) | தமிழ் |
+|   4  |  XI - X, XII  | ஆசிரியை [இராஜசுலோச்சனா] (Ms. Rajasulochana) | தமிழ் |
+|   5  |   XI    | அய்யா [பன்னீர்செல்வம்] (Mr. Pannerselvam) | தமிழ் |
 |   6  |  VII - IX  | Madhumathi  Miss (Ms. Madhumathi) | English |
 |   7  |  XI - XII  | Premakala Miss (Ms. Premakala) | English |
 |   8  |   X      | Beena Miss (Ms. Beena) | Mathematics |
 |   9  |   IX  | Premakumari Miss (Ms. Premakumari) | Mathematics |
-|   10 |  XI - XII | Miss () | Mathematics | 
+|   10  |  XI - XII | Miss () | Mathematics | 
 |   11  |          | Sajitha Miss (Ms. Sajitha) | Physical Science |
 |   12  |  X - XII | Lathika Miss (Ms. Lathika) | Physical Science |
 |   13  |    XII   | Moorthy Sir (Mr. Moorthy) | Chemistry |
 |   14  |    VIII  | Alphonsa Miss (Ms. Alphonsa) | Biology |
-|   15   |   IX    | Andeepthi Sister (Sr. Andeepthi) | Biology |
-|   16   |   IX - X | Agna Sister (Sr. Agna Geogre) | Biology |
+|   15  |   IX    | Andeepthi Sister (Sr. Andeepthi) | Biology |
+|   16  |   IX - X | Agna Sister (Sr. Agna George) | Biology |
 |   17  |    IX    | Elangovan Sir (Mr. Elangovan) | History |
 |   18  |          | Chandra Jaganathan Miss (Ms. Chandra Jaganathan) | Geography |
 |   19  |    X     | Selina Sister (Sr. Celina) |  Geography |
@@ -76,6 +76,7 @@
 |   6   | XI - XII | Velusamy Sir (Mr. Velusamy)  | Physics |
 |   7   | XI - XII | Nandhakumar Sir (Mr. Nandhakumar) | Chemistry |
 |   8   | XI - XII | Rajasingh Sir (Mr. Rajasingh) | Mathematics |
+|   9   | XI - XII | Nair Sir (Mr. Somasekharan Nair)  | **Everything** |
 
 ## College 
 
@@ -113,7 +114,7 @@
 |:-----:|:-------:|---------|
 |   1   | Ms. Uma |  Mathematics - III |
 |   2   | <img src="Assets/KCT/KT.jpg" alt="K Thilagavathi" width="120"/> <br/> Ms. K. Thilagavathi |  Principles of Communication (POC) |
-|   3   | <img src="Assets/KCT/NS.jpg" alt="N Suganthi" width="120"/> <br/> Mr. N. Suganthi | Microprocessors |
+|   3   | <img src="Assets/KCT/NS.jpg" alt="N Suganthi" width="120"/> <br/> Ms. N. Suganthi | Microprocessors |
 |   4   | <img src="Assets/KCT/KS.jpg" alt="Kavitha S" width="120"/> <br/> Ms. S. Kavitha | Object Oriented Programming and C++ |
 |   5   | <img src="Assets/KCT/SS.jpg" alt="S Sathyavathi" width="120"/> <br/> Ms. S. Sathyavathi | Digital Principle and System Design |
 |   6   | <img src="Assets/KCT/KRB.jpg" alt="Baskaran K R" width="120"/> <br/> Mr. K.R. Baskaran | Computer Architecture |
@@ -170,7 +171,7 @@
 |   1   | Ms. N. Chitra Devi | Management Information System (MIS) |
 |   2   |	Ms. Latha | Information Security (IS) |
 |   3   | <img src="Assets/KCT/EAV.jpg" alt="E A Vimal" width="120"/> <br/> Mr. E.A. Vimal | XML and Web Services |
-|   4   | <img src="Assets/KCT/KMS.jpg" alt="KM Senthil Kumar" width="120"/> <br/> Mr. Senthil Kumar | Total Quality Management (TQM) |
+|   4   | <img src="Assets/KCT/KMS.jpg" alt="KM Senthil Kumar" width="120"/> <br/> Mr. K.M. Senthil Kumar | Total Quality Management (TQM) |
 |   5   | <img src="Assets/KCT/NS.jpg" alt="N Suganthi" width="120"/> <br/> Ms. N. Suganthi | Project |
 
 #### Clubs
@@ -232,7 +233,7 @@
 
 | S.No. |  Name | Session |
 |:-----:|:-------:|---------|
-|   1   | <img src="Assets/Amrita/PM.jpg" alt="Prabhaker Mateti" width="120"/> <br/> Prof. Prabhaker Mateti | Formal Methods for System Software |
+|   1   | <img src="Assets/Amrita/PM.jpg" alt="Prabhaker Mateti" width="120"/> <br/> Prof. Prabhaker Mateti, <br/> Wright State University | Formal Methods for System Software |
 
 ### Doctoral Research - Amrita School of Engineering, Coimbatore - Ph.D (Blockchain Technology)
 
@@ -240,7 +241,18 @@
 
 | S.No. |  Name | Subject |
 |:-----:|:-------:|---------|
-|   1   | <img src="Assets/Amrita/VAN.jpg" alt="Anantha Narayanan V" width="120"/> <br/> Dr. Anantha Narayanan V <br/><br/> <img src="Assets/Amrita/KND.jpg" alt="K Nalinadevi" width="120"/> <br/> Ms. K. Nalinadevi  | Advanced Networks |
+|   1   | <img src="Assets/Amrita/VAN.jpg" alt="Anantha Narayanan V" width="120"/> <br/> Dr. Anantha Narayanan V <br/><br/> <img src="Assets/Amrita/KND.jpg" alt="K Nalinadevi" width="120"/> <br/> Ms. K. Nalinadevi <br/> <br/> <img src="Assets/External/RV.jpg" alt="R Venkateswaran" width="120"/> <br/> Mr. R Venkateswaran, <br/> CTO, Persistent Systems <br/> (ACM Expert Teacher)  | Advanced Networks |
 |   2   | <img src="Assets/Amrita/MS.jpg" alt="Sethumadhavan M" width="120"/> <br/> Prof. M. Sethumadhavan <br/> <br/>  <img src="Assets/Amrita/ENS.jpg" alt="N Sundararajan" width="120"/> <br/> Prof. N. Sundararajan | Research Methodology |
 
-## Mentor - Somasekharan Nair. S
+#### Doctoral Committee 
+
+| S.No. |  Name | Role |
+|:-----:|:-------:|---------|
+|   1   | <img src="Assets/Amrita/MS.jpg" alt="Sethumadhavan M" width="120"/> <br/> Prof. M. Sethumadhavan  | Thesis - Advisor |
+|   2   | <img src="Assets/Amrita/LKV.jpg" alt="Lakshmy KV" width="120"/> <br/> Dr. K.V. Lakshmy | Thesis - Co-Advisor |
+|   3   | <img src="Assets/Amrita/CS.jpg" alt="C Srinivasan" width="120"/> <br/> Dr. C. Srinivasan | Member |
+|   4   | <img src="Assets/Amrita/APP.jpg" alt="Amritha PP" width="120"/> <br/> Dr. P.P. Amritha | Member |
+|   5   | <img src="Assets/Amrita/KP.jpg" alt="Praveen K" width="120"/> <br/> Dr. K. Praveen | Member |
+
+
+## Mentor - Mr. Somasekharan Nair. S
