@@ -250,9 +250,9 @@
 |:-----:|:-------:|---------|
 |   1   | <img src="Assets/Amrita/MS.jpg" alt="Sethumadhavan M" width="120"/> <br/> Prof. M. Sethumadhavan  | Thesis - Advisor |
 |   2   | <img src="Assets/Amrita/LKV.jpg" alt="Lakshmy KV" width="120"/> <br/> Dr. K.V. Lakshmy | Thesis - Co-Advisor |
-|   3   | <img src="Assets/Amrita/CS.jpg" alt="C Srinivasan" width="120"/> <br/> Dr. C. Srinivasan | Member |
-|   4   | <img src="Assets/Amrita/APP.jpg" alt="Amritha PP" width="120"/> <br/> Dr. P.P. Amritha | Member |
+|   3   | <img src="Assets/Amrita/KPJ.jpg" alt="KP Jevitha" width="120"/> <br/> Dr. K.P. Jevitha | Thesis - Co-Advisor (2025 - Present) |
+|   4   | <img src="Assets/Amrita/CS.jpg" alt="C Srinivasan" width="120"/> <br/> Dr. C. Srinivasan | Member |
 |   5   | <img src="Assets/Amrita/KP.jpg" alt="Praveen K" width="120"/> <br/> Dr. K. Praveen | Member |
-
+|   6   | <img src="Assets/Amrita/APP.jpg" alt="Amritha PP" width="120"/> <br/> Dr. P.P. Amritha | Member (2021 - 2025) |
 
 ## Mentor - Mr. Somasekharan Nair. S
