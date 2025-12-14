@@ -5,7 +5,7 @@
 ### Class Teachers
 
 | S.No. | Standard | Name | 
-|:-----:|:--------:|:------:|
+|:-----:|:--------:|:------|
 |   1   | LKG      |        | 
 |   2   | UKG      |        |
 
@@ -14,7 +14,7 @@
 ### Class Teachers
 
 | S.No. | Standard | Name | 
-|:-----:|:--------:|:------:|
+|:-----:|:--------:|:------|
 |   1   |    I     | Sudha Miss (Ms. Sudha) | 
 |   2   |    II    | Andeepthi Sister (Sr. Andeepthi) | 
 |   3   |    III   | Annie Miss (Ms. Annie) | 
@@ -32,7 +32,7 @@
 ### Subject Teachers
 
 | S.No. | Standard | Name | Subject |
-|:-----:|:--------:|:----:|---------|
+|:-----:|:--------:|:----|---------|
 |   1  |          | Balu Sir (Mr. Balu) | Physical Education |
 |   2  |          | Jaya Raj Sir (Mr. Jaya Raj) | Physical Education |
 |   3  |          | Tamil Suganya Miss (Ms. Suganya) | தமிழ் |
@@ -67,7 +67,7 @@
 ## Tuition, Mettupalayam
 
 | S.No. | Standard | Name | Subject(s) |
-|:-----:|:--------:|:------:|---------|
+|:-----:|:--------:|:------|---------|
 |   1   |   V     | Kalaiselvi Akka (Ms. Kalaiselvi) | All |
 |   2   |   VI    | Geetha Akka ( Ms. Geetha) | All |
 |   3   |  VII - IX | Nirmala Akka (Ms. Nirmala) | All |
